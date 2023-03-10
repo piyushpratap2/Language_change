@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Language Change</string>
+    <string name="selected_language">हिन्दी</string>
+    <string name="languages">भाषा सफलतापूर्वक बदल गई</string>
+    <string name = "title">अगले पेज पर जाने के लिए नेक्स्ट बटन पर क्लिक करें</string>
+</resources>
